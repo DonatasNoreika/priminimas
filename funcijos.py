@@ -30,3 +30,5 @@ for irasas in zurnalas:
     elif isinstance(irasas, IslaiduIrasas):
         suma -= irasas.suma
 print(suma)
+
+fdlakdjflajsdlfa
